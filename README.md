@@ -1,0 +1,2 @@
+# Stocku
+Aplikasi management stock
